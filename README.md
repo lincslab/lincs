@@ -1,1 +1,1 @@
-# lincs
+# lincs lab repo
